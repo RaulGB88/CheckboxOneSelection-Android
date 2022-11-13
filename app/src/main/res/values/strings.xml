@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckboxOneSelection-Android</string>
+    <string name="title">Componentes de selección única</string>
+    <string name="option1">Opcion 1</string>
+    <string name="option2">Opcion 2</string>
+    <string name="send">Enviar</string>
+</resources>
